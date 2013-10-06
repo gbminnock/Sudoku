@@ -1,0 +1,5 @@
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuControlLib\bin\Debug\SudokuControlLib.dll
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuControlLib\bin\Debug\SudokuControlLib.pdb
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuControlLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuControlLib\obj\Debug\SudokuControlLib.dll
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuControlLib\obj\Debug\SudokuControlLib.pdb

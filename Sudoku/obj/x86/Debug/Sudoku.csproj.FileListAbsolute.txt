@@ -1,0 +1,11 @@
+c:\users\minnockg\documents\visual studio 2010\Projects\Sudoku\Sudoku\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\minnockg\documents\visual studio 2010\Projects\Sudoku\Sudoku\obj\x86\Debug\Sudoku.Properties.Resources.resources
+c:\users\minnockg\documents\visual studio 2010\Projects\Sudoku\Sudoku\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\minnockg\documents\visual studio 2010\Projects\Sudoku\Sudoku\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\minnockg\documents\visual studio 2010\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+c:\users\minnockg\documents\visual studio 2010\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+c:\users\minnockg\documents\visual studio 2010\Projects\Sudoku\Sudoku\bin\Debug\SudokuLib.dll
+c:\users\minnockg\documents\visual studio 2010\Projects\Sudoku\Sudoku\bin\Debug\SudokuLib.pdb
+c:\users\minnockg\documents\visual studio 2010\Projects\Sudoku\Sudoku\obj\x86\Debug\Sudoku.exe
+c:\users\minnockg\documents\visual studio 2010\Projects\Sudoku\Sudoku\obj\x86\Debug\Sudoku.pdb
+c:\users\minnockg\documents\visual studio 2010\Projects\Sudoku\Sudoku\obj\x86\Debug\Sudoku.Form1.resources

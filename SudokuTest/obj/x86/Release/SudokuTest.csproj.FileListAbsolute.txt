@@ -1,0 +1,14 @@
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuTest\bin\Release\SudokuTest.exe
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuTest\bin\Release\SudokuTest.pdb
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuTest\bin\Release\SudokuLib.dll
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuTest\bin\Release\SudokuLib.pdb
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuTest\obj\x86\Release\SudokuTest.exe
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuTest\obj\x86\Release\SudokuTest.pdb
+C:\Users\minnockg\Documents\Visual Studio 2010\Projects\Sudoku\Sudoku\SudokuTest\bin\Release\SudokuTest.exe
+C:\Users\minnockg\Documents\Visual Studio 2010\Projects\Sudoku\Sudoku\SudokuTest\bin\Release\SudokuTest.pdb
+C:\Users\minnockg\Documents\Visual Studio 2010\Projects\Sudoku\Sudoku\SudokuTest\bin\Release\SudokuLib.dll
+C:\Users\minnockg\Documents\Visual Studio 2010\Projects\Sudoku\Sudoku\SudokuTest\bin\Release\SudokuLib.pdb
+C:\Users\minnockg\Documents\Visual Studio 2010\Projects\Sudoku\Sudoku\SudokuTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\minnockg\Documents\Visual Studio 2010\Projects\Sudoku\Sudoku\SudokuTest\obj\x86\Release\SudokuTest.exe
+C:\Users\minnockg\Documents\Visual Studio 2010\Projects\Sudoku\Sudoku\SudokuTest\obj\x86\Release\SudokuTest.pdb

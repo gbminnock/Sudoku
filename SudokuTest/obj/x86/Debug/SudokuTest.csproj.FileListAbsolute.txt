@@ -1,0 +1,7 @@
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuTest\bin\Debug\SudokuTest.exe
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuTest\bin\Debug\SudokuTest.pdb
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuTest\bin\Debug\SudokuLib.dll
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuTest\bin\Debug\SudokuLib.pdb
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuTest\obj\x86\Debug\SudokuTest.exe
+C:\Users\minnockg\documents\visual studio 2010\Projects\Sudoku\SudokuTest\obj\x86\Debug\SudokuTest.pdb
